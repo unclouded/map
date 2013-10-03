@@ -6,6 +6,6 @@
   "description": "Map an array or object.",
   "keywords": ["map", "array", "object"],
   "dependencies": {
-    "each-component": "0.0.1"
+    "each-component": "git://github.com/component/each"
   }
 }
